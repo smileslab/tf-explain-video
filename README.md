@@ -1,4 +1,4 @@
-# tf-explain
+# tf-explain-video (WIP)
 
 [![Pypi Version](https://img.shields.io/pypi/v/tf-explain.svg)](https://pypi.org/project/tf-explain/)
 [![DOI](https://zenodo.org/badge/196956879.svg)](https://zenodo.org/badge/latestdoi/196956879)
@@ -7,7 +7,7 @@
 ![Python Versions](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-%23EBBD68.svg)
 ![Tensorflow Versions](https://img.shields.io/badge/tensorflow-2.x-blue.svg)
 
-__tf-explain__ implements interpretability methods as Tensorflow 2.x callbacks to __ease neural network's understanding__.
+__tf-explain__ implements interpretability for videos as Tensorflow 2.x callbacks to __ease neural network's understanding__.
 See [Introducing tf-explain, Interpretability for Tensorflow 2.0](https://blog.sicara.com/tf-explain-interpretability-tensorflow-2-9438b5846e35)
 
 __Documentation__: https://tf-explain.readthedocs.io
